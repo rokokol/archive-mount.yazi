@@ -1,5 +1,6 @@
 # archive-mount.yazi
 
+[![Yazi plugin](https://img.shields.io/badge/Yazi-plugin-blue?style=flat)](https://yazi-rs.github.io/docs/plugins/overview/)
 [![workarounds](https://img.shields.io/badge/docs-workarounds-555?style=flat)](WORKAROUNDS.md)
 
 Open archives as folders in Yazi on Linux. Browse them read-only or edit their contents and save changes to the archive
